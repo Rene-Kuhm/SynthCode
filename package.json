@@ -1,0 +1,21 @@
+{
+  "name": "tui-para-ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.jsx",
+  "scripts": {
+    "start": "tsx src/index.jsx",
+    "test": "tsx src/index.jsx --demo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "ink": "^6.7.0",
+    "react": "^19.2.4"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  }
+}
